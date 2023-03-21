@@ -22,6 +22,7 @@ public class example1 {
 
 //lambda
 //classname object=()->
+///dehildhelhdhe
 
 
 interface Drawable{  
